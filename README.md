@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/43176477/114868900-1802f380-9dff-11eb-9b73-feadf75d8bba.png"></img>
 <h1>How to start</h1>
 <ul>
-  <li>Run this command: git clone https://github.com/drotsyk/Product-landing.git</li>
+  <li>Run this command: git clone https://github.com/drotsyk/Calendar.git</li>
   <li>Start project: npm start
   </ul>
 <hr>
